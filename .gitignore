@@ -1,0 +1,7 @@
+.vscode
+*.exe
+*.dll
+*.log
+*.tmp
+*.swp
+.DS_Store
