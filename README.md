@@ -74,8 +74,3 @@ This project demonstrates fundamental programming concepts including:
 **Course**: Programming Fundamentals  
 **Semester**: 1st Semester  
 **Language**: C++
-
-## Author
-
-**MUHAMMAD HASSAN**  
-BS Software Engineering (2024-2028)
